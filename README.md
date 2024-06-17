@@ -1,5 +1,8 @@
 ### Hi there 👋
-<img src="https://github-readme-stats.vercel.app/api?username=nvitius&show_icons=true&text_color=24292e&bg_color=ffffff&hide_title=true" />
+Solving problems through software since 2013.
+
+#### Github Stats
+<img src="https://github-readme-stats.vercel.app/api?username=nvitius&show_icons=true&text_color=24292e&bg_color=ffffff&hide_title=true&rank_icon=github" />
 
 <!--
 **nVitius/nVitius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
