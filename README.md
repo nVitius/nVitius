@@ -1,5 +1,4 @@
-### Hi there 👋
-Solving problems through software since 2013.
+Hi, I'm Mauricio. I've been working with code since 2013. I've always had a very strong desire to understand how things work. That's what originally led me to this career and what has kept me going for the last 10+ years. I love solving problems through software.
 
 #### Github Stats
 <img src="https://github-readme-stats.vercel.app/api?username=nvitius&show_icons=true&text_color=24292e&bg_color=ffffff&hide_title=true&rank_icon=github" />
